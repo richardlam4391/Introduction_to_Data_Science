@@ -1,6 +1,6 @@
 # Details of Machine Learning with Python
 
-This course tells you how to understand why data science is important. 
+This course tells you why data science is important. 
 
 ## Key Skills
 
