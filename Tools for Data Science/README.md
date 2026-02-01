@@ -1,4 +1,4 @@
-# Details of Machine Learning with Python
+# Details of Tools for Data Science
 
 This course tells you why data science tool kits are useful for the data science career roles. 
 
