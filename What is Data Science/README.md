@@ -1,4 +1,4 @@
-# Details of Machine Learning with Python
+# Details of What is Data Science
 
 This course tells you why data science is important. 
 
