@@ -5,13 +5,13 @@ The IBM Data Science Professional Certificate is an online course program that t
 
 ## Course Topics
 
-- What is Data Science
+- [What is Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
 
-- Tools for Data Science
+- [Tools for Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Tools%20for%20Data%20Science)
 
-- Data Science Methodology
+- [Data Science Methodology](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology)
 
-- Databases and SQL for Data Science with Python
+- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 ## Key Skills
 - SQL
