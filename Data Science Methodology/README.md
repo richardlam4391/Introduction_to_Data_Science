@@ -1,8 +1,6 @@
 # Data Science Methodology
 
-This course tells you why methodology is important for data science career roles. 
-
-This repository contains case-study portfolio demonstrating how to apply a rigorous, iterative framework to real-world data science problems. This completed in June 2025. 
+Data Science Methodology contains case-study portfolio demonstrating how to apply a rigorous, iterative framework to real-world data science problems. This completed in June 2025. 
 
 ---
 
