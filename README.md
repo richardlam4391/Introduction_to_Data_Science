@@ -25,7 +25,7 @@ The purpose of this repository is to demonstrate core competencies in data colle
 
 ---
 
-## 📂 Curriculum & Repository Structure
+## 📂 Repository Structure
 
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
