@@ -1,8 +1,6 @@
 # Introduction to Data Science
 
-The Data Science repository serves as a foundational building block in my data science journey, documenting my transition from data analysis concepts to advanced statistical modeling and machine learning workflows. 
-
-The purpose of this repository is to demonstrate core competencies in data collection, exploratory data analysis (EDA), and data visualization using industry-standard Python libraries.
+The purpose of **Introduction to Data Science** is to demonstrate core competencies in data collection, exploratory data analysis (EDA), and data visualization using industry-standard Python libraries.
 
 ---
 
