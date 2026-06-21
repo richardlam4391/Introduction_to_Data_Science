@@ -1,57 +1,37 @@
-# IBM-Data-Analyst-Professional-Certificate 
+# Introduction to Data Science
 
-## Professional Certificate
-The IBM Data Science Professional Certificate is an online course program that teaches learners to how to write the code in Python and SQL and gain technical experiences in computer programming and statistical analysis. There are 5 chapters in this online course program.   
+Welcome to my Introduction to Data Science repository. This project serves as a foundational building block in my data science journey, documenting my transition from data analysis concepts to advanced statistical modeling and machine learning workflows. 
 
-## Course Topics
+The purpose of this repository is to demonstrate core competencies in data collection, exploratory data analysis (EDA), and data visualization using industry-standard Python libraries.
 
-- [What is Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
+---
 
-- [Tools for Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Tools%20for%20Data%20Science)
+## 🚀 Key Skills
 
-- [Data Science Methodology](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology)
+*   **Exploratory Data Analysis (EDA):** Profiling datasets, handling missing values, identifying outliers, and computing descriptive statistics.
+*   **Data Wrangling & Manipulation:** Cleaning, transforming, merging, and aggregating messy datasets into analysis-ready formats.
+*   **Data Visualization:** Designing clear, actionable plots to uncover trends, patterns, and distributions.
+*   **Statistical Foundation:** Applying basic statistical concepts (correlations, distributions) to back up data insights.
 
-- [Databases and SQL for Data Science with Python](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+---
 
-## Key Skills
-- SQL
+## 🛠️ Tools & Technologies
 
-- Data Modeling
+*   **Language:** Python 3.x
+*   **Data Libraries:** Pandas (data manipulation), NumPy (numerical computing)
+*   **Visualization Libraries:** Matplotlib, Seaborn (statistical data visualization)
+*   **Environment:** Jupyter Notebooks, VS Code
+*   **Version Control:** Git & GitHub
 
-- Databases
+---
 
-- Computer Programming Tools
+## 📂 Curriculum & Repository Structure
 
-- Cloud Computing 
+The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
-- Data Preprocessing 
-
-- Data Cleaniung
-
-- Data Science
-
-- Data Analysis
-
-- Big Data
-
-- Data Mining
-
-- Stored Procedure
-
-- Data Literacy
-
-## Tools
-- Github
-
-- Jupyter
-
-- Query Languages
-
-- Model Deployment
-
-- Python Programming
-
-- R (Software)
-
-- Relational Databases
-
+| # | Course Module | Status |
+| :--- | :--- | :--- |
+| **01** | What is Data Science? | ✅ Completed in June 2025 |
+| **02** | Tools for Data Science | ✅ Completed in June 2025 |
+| **03** | Data Science Methodology | ✅ Completed in June 2025 |
+| **04** | Databases & SQL with Python | ✅ Completed in April 2025 |
