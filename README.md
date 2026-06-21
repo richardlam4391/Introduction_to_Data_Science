@@ -4,7 +4,7 @@ The purpose of **Introduction to Data Science** is to demonstrate core competenc
 
 ---
 
-## 🚀 Key Skills
+## Key Skills
 
 *   **Exploratory Data Analysis (EDA):** Profiling datasets, handling missing values, identifying outliers, and computing descriptive statistics.
 *   **Data Wrangling & Manipulation:** Cleaning, transforming, merging, and aggregating messy datasets into analysis-ready formats.
@@ -13,7 +13,7 @@ The purpose of **Introduction to Data Science** is to demonstrate core competenc
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 *   **Language:** Python 3.x
 *   **Data Libraries:** Pandas (data manipulation), NumPy (numerical computing)
@@ -23,7 +23,7 @@ The purpose of **Introduction to Data Science** is to demonstrate core competenc
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized numerically to show the structured progression from fundamental principles to predictive algorithmic modeling:
 
