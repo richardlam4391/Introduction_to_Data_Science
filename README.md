@@ -30,6 +30,7 @@ An introductory portfolio repository providing foundational concepts and practic
 | **01** | What is Data Science? | ✅ Completed in June 2025 |
 | **02** | Tools for Data Science | ✅ Completed in June 2025 |
 | **03** | Data Science Methodology | ✅ Completed in June 2025 |
+| **04** | Databases and SQL for Data Science with Python | ✅ Completed in April 2025 |
 
 ---
 
