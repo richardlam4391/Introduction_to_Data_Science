@@ -4,13 +4,13 @@
 
 ---
 
-## 📋 Course Overview
+## 📊 Course Overview
 
 This module serves as the foundational introduction to the field of data science, defining the roles, responsibilities, and methodologies that drive modern data-driven decision-making. The focus is on understanding the data science lifecycle—from defining a business problem and collecting data to exploring, modeling, and communicating insights. Through case studies and industry perspectives, this course outlines how data scientists extract actionable wisdom from raw data and highlights the ethical considerations inherent in data analysis.
 
 ---
 
-## 📊 Key Findings
+## 🎯 Key Findings
 
 * **The Core Definition:** Data science is an interdisciplinary field combining statistical methods, computational algorithms, and domain expertise to extract insights from structured and unstructured data.
 * **The Lifecycle Approach:** Successful projects rely on a structured workflow (like CRISP-DM or OSEMN), proving that data preparation and problem definition are just as critical as the final modeling phase.
@@ -48,5 +48,5 @@ This module serves as the foundational introduction to the field of data science
   - **Analytical Taxonomies** - Organizing data roles (Data Scientist vs. Data Analyst vs. Data Engineer) into clear visual matrixes to show how technical skill sets complement one another.
  
 ## 🔗 Link
-- **Repository:** [Github](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+- **Repository:** [Github](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
 - **Certification:** Introduction to Data Science (Coursera)
