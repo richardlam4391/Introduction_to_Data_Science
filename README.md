@@ -44,9 +44,10 @@ An introductory portfolio repository providing foundational concepts and practic
 
 ---
 
-## 📚 **Getting Started**
+## **Notable Projects**
 
-This repository serves as a foundation for more advanced data science specializations. Projects build practical skills through hands-on exercises and real-world datasets.
+### **Database & SQL**
+- **[Chicago Socioeconomic Data Analysis](./Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, database management, Python integration
 
 ---
 
