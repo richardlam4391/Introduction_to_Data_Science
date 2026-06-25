@@ -19,7 +19,7 @@ This module serves as the foundational introduction to the field of data science
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Concepts & Methodologies** | CRISP-DM (Cross-Industry Standard Process for Data Mining), Data Governance, Big Data Ecosystems |
 | **Documentation & Reporting** | Markdown, Jupyter Notebooks (for narrative reporting) |
 | **Core Analytics Frameworks** | Descriptive Analytics, Predictive Modeling, Prescriptive Analytics |
