@@ -47,5 +47,5 @@
 
 ## 🔗 Link
 
-- **Repository:** [Github](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology)
 - **Certification:** Introduction to Data Science (Coursera)
