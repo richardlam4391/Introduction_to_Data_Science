@@ -48,5 +48,5 @@ This module serves as the foundational introduction to the field of data science
   - **Analytical Taxonomies** - Organizing data roles (Data Scientist vs. Data Analyst vs. Data Engineer) into clear visual matrixes to show how technical skill sets complement one another.
  
 ## 🔗 Link
-- **Repository:** [Github](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
 - **Certification:** Introduction to Data Science (Coursera)
