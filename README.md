@@ -1,5 +1,7 @@
 # Introduction to Data Science
 
+---
+
 An introductory portfolio repository providing foundational concepts and practical exposure to the data science lifecycle. This specialization covers the core methodologies, tools, and processes that underpin professional data science practice.
 
 ---
