@@ -33,9 +33,8 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 ### Deliverables
 
-`mod5_final_project` — Core Jupyter Notebook project files
-.csv files - Source and processed datasets
-
+- `mod5_final_project` — Core Jupyter Notebook project files
+- .csv files - Source and processed datasets
 
 ---
 
