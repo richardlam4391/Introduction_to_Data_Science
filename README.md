@@ -8,20 +8,20 @@ An introductory portfolio repository providing foundational concepts and practic
 
 ## 🎓 **Core Skills**
 
-* **Data Science Fundamentals:** Understanding the data science process, roles, and applications
-* **Data Collection & Preparation:** Sourcing, importing, and preparing data for analysis
-* **Exploratory Analysis:** Initial data investigations to understand structure and patterns
-* **Basic Statistical Concepts:** Descriptive statistics, distributions, and relationships
-* **Introduction to Python:** Python basics for data manipulation and analysis
+- **Data Science Fundamentals:** Understanding the data science process, roles, and applications
+- **Data Collection & Preparation:** Sourcing, importing, and preparing data for analysis
+- **Exploratory Analysis:** Initial data investigations to understand structure and patterns
+- **Basic Statistical Concepts:** Descriptive statistics, distributions, and relationships
+- **Introduction to Python:** Python basics for data manipulation and analysis
 
 ---
 
 ## 🛠️ **Tools & Technologies**
 
-* **Languages:** Python, R, SQL
-* **Python Libraries:** Pandas, NumPy, Matplotlib
-* **Environments:** Jupyter Notebooks, RStudio
-* **Data Sources:** CSV files, APIs, databases
+- **Languages:** Python, R, SQL
+- **Python Libraries:** Pandas, NumPy, Matplotlib
+- **Environments:** Jupyter Notebooks, RStudio
+- **Data Sources:** CSV files, APIs, databases
 
 ---
 
@@ -38,11 +38,11 @@ An introductory portfolio repository providing foundational concepts and practic
 
 ## 🎯 **Learning Outcomes**
 
-✅ **Data Science Concepts:** Roles (analyst, engineer, scientist), applications, and career paths  
-✅ **Essential Tools:** Jupyter Notebooks, Git, Python, SQL, and R  
-✅ **Data Workflows:** The complete pipeline from problem definition to insights  
-✅ **Foundational Programming:** Python basics for data manipulation  
-✅ **Big Picture Thinking:** Understanding when and how to apply data science  
+- **Data Science Concepts:** Roles (analyst, engineer, scientist), applications, and career paths  
+- **Essential Tools:** Jupyter Notebooks, Git, Python, SQL, and R  
+- **Data Workflows:** The complete pipeline from problem definition to insights  
+- **Foundational Programming:** Python basics for data manipulation  
+- **Big Picture Thinking:** Understanding when and how to apply data science  
 
 ---
 
@@ -60,12 +60,9 @@ An introductory portfolio repository providing foundational concepts and practic
 
 ---
 
-**Repository Last Updated:** June 2025  
-
-**Specialization Completed:** June 2025  
-
-**Total Courses:** 4
-
-**Program Duration:** 1 months
+- **Repository Last Updated:** June 2025  
+- **Specialization Completed:** June 2025  
+- **Total Courses:** 4
+- **Program Duration:** 1 months
 
 For more information about this program, visit [Introduction to Data Science](https://www.coursera.org/specializations/introduction-data-science).
