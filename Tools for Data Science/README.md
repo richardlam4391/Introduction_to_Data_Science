@@ -14,9 +14,9 @@ This module provides a comprehensive introduction to the essential tools and env
 
 ## 🎯 Key Findings
 
-* **Ecosystem Diversity** - Modern data science relies on a blend of open-source tools (Python/R libraries), commercial platforms (IBM Watson Studio), and cloud-managed infrastructure to scale data workflows.
-* **Collaboration & Version Control** - Utilizing Git and GitHub is foundational for reproducible research, code sharing, and managing collaborative data science projects.
-* **Environment Optimization** - Choosing the right environment—such as Jupyter Notebooks for iterative analysis and narrative data storytelling, or RStudio for statistical computing—directly impacts pipeline efficiency.
+- **Ecosystem Diversity** - Modern data science relies on a blend of open-source tools (Python/R libraries), commercial platforms (IBM Watson Studio), and cloud-managed infrastructure to scale data workflows.
+- **Collaboration & Version Control** - Utilizing Git and GitHub is foundational for reproducible research, code sharing, and managing collaborative data science projects.
+- **Environment Optimization** - Choosing the right environment—such as Jupyter Notebooks for iterative analysis and narrative data storytelling, or RStudio for statistical computing—directly impacts pipeline efficiency.
 
 ---
 
