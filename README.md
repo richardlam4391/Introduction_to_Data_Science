@@ -49,7 +49,7 @@ An introductory portfolio repository providing foundational concepts and practic
 ## **Notable Projects**
 
 ### **Database & SQL**
-- **[Chicago Socioeconomic Data Analysis]([./Database%20and%20SQL%20for%20Data%20Science%20with%20Python](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python))** — Advanced SQL queries, database management, Python integration
+- **[Chicago Socioeconomic Data Analysis](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, database management, Python integration
 
 ---
 
