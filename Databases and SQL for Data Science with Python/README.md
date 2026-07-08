@@ -49,6 +49,8 @@ This module focuses on working with relational database systems, utilizing SQL (
 
 - `mod5_final_project` — Core Jupyter Notebook project files
 - .csv files - Source and processed datasets
+- Solution of Chicago Census Data 1 -10 (PNG files) - Visual results from MySQL WorkBench screenshots
+- Chicago Census Data 1 - 10 (SQL files) - SQL query statements
 
 ---
 
