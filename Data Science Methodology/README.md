@@ -14,9 +14,9 @@
 
 ## 🎯 Key Findings 
 
-* **The Power of Iteration** - Data science is rarely linear; insights gained during the data evaluation or modeling stages frequently require circling back to data preparation or even redefining data requirements.
-* **Problem-Centric Approach** - The success of any data science project depends heavily on clearly defining the business problem and selecting the correct analytic approach (descriptive, predictive, or prescriptive) before looking at the data.
-* **Data Preparation Bottleneck** - Corroborating industry statistics, this module demonstrated that data collection, stage cleaning, and preparation often consume up to 70-80% of a data scientist's total project timeline.
+- **The Power of Iteration** - Data science is rarely linear; insights gained during the data evaluation or modeling stages frequently require circling back to data preparation or even redefining data requirements.
+- **Problem-Centric Approach** - The success of any data science project depends heavily on clearly defining the business problem and selecting the correct analytic approach (descriptive, predictive, or prescriptive) before looking at the data.
+- **Data Preparation Bottleneck** - Corroborating industry statistics, this module demonstrated that data collection, stage cleaning, and preparation often consume up to 70-80% of a data scientist's total project timeline.
 
 ---
 
