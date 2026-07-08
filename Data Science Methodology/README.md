@@ -8,7 +8,7 @@
 
 ## 📊  Course Overview
 
-- This module explores the core framework used by data scientists to tackle complex business problems. Rather than focusing solely on coding, this section emphasizes the structured, iterative process required to turn data into actionable insights. Following a comprehensive data science methodology (such as John Rollins' 10-stage framework), this course covers everything from understanding the initial business problem to data collection, preparation, modeling, evaluation, and eventual deployment.
+This module explores the core framework used by data scientists to tackle complex business problems. Rather than focusing solely on coding, this section emphasizes the structured, iterative process required to turn data into actionable insights. Following a comprehensive data science methodology (such as John Rollins' 10-stage framework), this course covers everything from understanding the initial business problem to data collection, preparation, modeling, evaluation, and eventual deployment.
 
 ---
 
