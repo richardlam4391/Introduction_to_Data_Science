@@ -50,4 +50,4 @@ This module explores the core framework used by data scientists to tackle comple
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Data%20Science%20Methodology)
-* **Certification:** Introduction to Data Science (Coursera)
+* **Certification:** [Introduction to Data Science (Coursera)](https://www.coursera.org/account/accomplishments/verify/8VJB0EJ4G8H2)
