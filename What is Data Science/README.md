@@ -51,4 +51,4 @@ This module serves as the foundational introduction to the field of data science
  
 ## 🔗 Link
 * **Repository:** [GitHub](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/What%20is%20Data%20Science)
-* **Certification:** [What is Data Science? (Coursera)](https://www.coursera.org/account/accomplishments/verify/P3XWPHMJTO77) - June 2025
+* **Certification:** [What is Data Science? (Coursera)](https://www.coursera.org/account/accomplishments/verify/P3XWPHMJTO77) 
