@@ -59,4 +59,4 @@ This module provides a comprehensive introduction to the essential tools and env
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Introduction_to_Data_Science/tree/main/Tools%20for%20Data%20Science)
-* **Certification:** [Introduction to Data Science (Coursera)](https://www.coursera.org/account/accomplishments/verify/VD9OLW7S4HPG)
+* **Certification:** [Tools for Data Science (Coursera)](https://www.coursera.org/account/accomplishments/verify/VD9OLW7S4HPG)
